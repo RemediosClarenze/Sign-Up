@@ -1,0 +1,21 @@
+body {
+	background-image: url('bg.GIF');
+	background-repeat: no-repeat;
+	background-size: cover;
+	}		  
+p{
+              color:black;
+              font-size:25px;
+              } 
+             h1{
+              color:brown;
+              font-size:50px;
+             }
+             h2{
+              color:black;
+              font-size:50px;
+             }
+             button{
+              color:brown;
+              font-size:25px;
+             }
